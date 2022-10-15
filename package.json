@@ -1,0 +1,15 @@
+{
+  "name": "node2",
+  "version": "1.0.0",
+  "description": "test for node running on docker",
+  "main": "app.js",
+  "scripts": {
+    "test" : "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sethjoe",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "save": "^2.9.0"
+  }
+}
